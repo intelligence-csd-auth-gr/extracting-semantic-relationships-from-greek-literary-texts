@@ -14,7 +14,7 @@ We make this dataset publicly available to encourage further research on 19th-ce
 
 
 ### Dataset
-The benchmark data can be found in the _Data_ folder. Train, validation and test datasets follow a 80%-10%-10% split 
+The benchmark data can be found in the __Data__ folder. Train, validation and test datasets follow a 80%-10%-10% split 
 with all 
 sets including the following features:
 
