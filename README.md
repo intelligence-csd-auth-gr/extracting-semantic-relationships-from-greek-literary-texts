@@ -38,7 +38,7 @@ This work was co‐financed by the European Regional Development Fund of the Eur
 
 
 ### References:
-[1] Koidaki, F.; Tiktopoulou, K. Encoding semantic relationships in literary texts. A methodological proposal for linking networkedentities into semantic relations.  Ballisage: Markup Conference, 2021, pp. 28–37.
+[1] Koidaki, F.; Tiktopoulou, K. _Encoding semantic relationships in literary texts. A methodological proposal for linking networked entities into semantic relations_. Ballisage: Markup Conference, 2021, pp. 28–37.
 
 ## Citations
 If you use our dataset in your research or find our repository useful, please consider citing our work.
